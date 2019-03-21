@@ -10,6 +10,8 @@ public class Demo {
     static {
         try {
             duQu();
+            System.out.println(1111);
+            System.out.println(2222);
         } catch (IOException e) {
             e.printStackTrace();
         }
