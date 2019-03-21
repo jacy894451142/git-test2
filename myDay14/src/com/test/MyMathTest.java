@@ -28,5 +28,8 @@ public class MyMathTest {
         int sum = mm.sum(10, 20);
 //        System.out.println("sum = " + sum);
         Assert.assertEquals(30,sum);
+
+
+        System.out.println(111111);
     }
 }
